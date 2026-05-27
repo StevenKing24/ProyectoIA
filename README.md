@@ -25,6 +25,8 @@ Descripción General
 
 El dataset contiene información utilizada para el entrenamiento y evaluación de modelos de Machine Learning. Los datos incluyen diferentes variables o características que representan las columnas que muestran como los usuarios confian en las respuestas que arroja los distintos agentes de inteligencia artificial.
 
+link del video de youtube: https://youtu.be/mOCJosvP43c
+
 Contenido del Dataset
 
 El conjunto de datos incluye: 
