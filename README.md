@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Banner.png" alt="Banner del proyecto" width="100%">
+</p>
 Título del Proyecto
 
 Confianza en los agentes de inteligencia artificial
